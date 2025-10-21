@@ -19,3 +19,4 @@ print(y)
 <img width="326" height="277" alt="image" src="https://github.com/user-attachments/assets/4d30251b-ea37-4046-8117-e5ffe6fcc615" />
 
 ## Result
+Thus,the Python program to convert the number 16 into its binary representation using built-in Python functions is created successfully.
